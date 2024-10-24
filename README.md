@@ -7,7 +7,7 @@ Finally it displays the details of the procedure and print the form to show at r
 <img width="827" alt="2024-10-23 (2)" src="https://github.com/user-attachments/assets/f678a4fe-51b1-48ba-b5c8-a81b9707556b">
 
 # Code-Snippet-and-Examples
-1.Login
+## 1.Login
 
 private void submitActionPerformed(java.awt.event.ActionEvent evt) {                                         
     String username = jTextField1.getText(); // Get the username from the text field
@@ -44,3 +44,9 @@ private void submitActionPerformed(java.awt.event.ActionEvent evt) {
     }
 }
 
+Example Used:
+ • Allows users to input their username and password.
+ • Validates user credentials by checking against a database.
+ • Displays a message when login is successful or when the credentials are incorrect.
+
+ 20
